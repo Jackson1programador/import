@@ -1,0 +1,23 @@
+.bloco-login {
+  border: solid;
+  width: 30%;
+  border-radius: 10px;
+  height: 250px;
+  border-color: rgb(16, 16, 127);
+  margin: 250px auto;
+}
+
+.login-senha {
+ font-size: 20px;
+ color: rgb(16, 16, 127);
+ margin: 20px;
+
+}
+
+.imput-padrao {
+  display: block;
+  width: 300px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  border-color: rgb(16, 16, 127);
+}
